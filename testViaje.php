@@ -118,5 +118,5 @@ function existeViaje($viaje){
     }
     return true;
 }
-/*COMENTARIO DE PRUEBA*/
+/*COMENTARIO DE PRUEBA NUMERO 2*/
 ?>
